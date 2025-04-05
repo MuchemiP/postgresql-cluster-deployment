@@ -1,0 +1,5 @@
+replicaCount: 3
+postgres:
+  username: dedan
+  password: dedaN@2025
+  db: pg_repl_test
